@@ -1,0 +1,10 @@
+{
+  "name": "bizen-ht",
+  "version": "1.0.0",
+  "description": "Bizen HT - Platfòm Moman Plezi & Lanmou an Ayiti",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  }
+}
